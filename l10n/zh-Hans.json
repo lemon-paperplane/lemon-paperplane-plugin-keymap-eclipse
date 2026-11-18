@@ -1,0 +1,6 @@
+{
+  "plugin.name": "Eclipse 快捷键",
+  "plugin.description": "文件编辑器的 Eclipse 默认快捷键方案（macOS 版与 Windows 版）",
+  "keymap.eclipseMac": "Eclipse（macOS）",
+  "keymap.eclipseWindows": "Eclipse（Windows）"
+}

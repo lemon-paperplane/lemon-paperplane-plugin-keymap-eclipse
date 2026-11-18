@@ -1,0 +1,18 @@
+{
+  "id": "keymap-eclipse",
+  "name": "%plugin.name%",
+  "version": "0.1.0",
+  "vendor": "Lemon Paperplane",
+  "description": "%plugin.description%",
+  "icon": "icons/keymap-eclipse.svg",
+  "category": "tool",
+  "engines": {"paperplane": ">=0.1.0 <0.2.0"},
+  "protocol": 1,
+  "activation": {},
+  "contributes": {
+    "keymaps": [
+      {"id": "eclipse-macos", "name": "%keymap.eclipseMac%", "platform": "macos", "file": "keymaps/eclipse-macos.json"},
+      {"id": "eclipse-windows", "name": "%keymap.eclipseWindows%", "platform": "windows", "file": "keymaps/eclipse-windows.json"}
+    ]
+  }
+}

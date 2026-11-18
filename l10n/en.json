@@ -1,0 +1,6 @@
+{
+  "plugin.name": "Eclipse Keymap",
+  "plugin.description": "Eclipse default keymaps for the file editor (macOS and Windows)",
+  "keymap.eclipseMac": "Eclipse (macOS)",
+  "keymap.eclipseWindows": "Eclipse (Windows)"
+}
